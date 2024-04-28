@@ -27,8 +27,7 @@
 <img width="6%" title="TestIT" src="assets/testit.svg"> 
          
 
-## Projects:
-### <a target="_blank" href="https://github.com/MariaRolik/Lesson4demoqa"> UI testing automation project for website [demoQA](https://github.com/MariaRolik/Lesson4demoqa) 
+## Project:
 ### <a target="_blank" href="https://github.com/MariaRolik/REST-API"> API automation project for  website [Regres.in](https://reqres.in)
  
 
