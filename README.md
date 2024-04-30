@@ -28,7 +28,7 @@
          
 
 ## Project:
-### <a target="_blank" href="https://github.com/MariaRolik/REST-API"> API automation project for  website [Regres.in](https://reqres.in)
+### <a target="_blank" href="https://github.com/MariaRolik/REST-API"> API automation project for website [Reqres.in](https://reqres.in)
  
 
 
