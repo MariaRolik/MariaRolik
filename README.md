@@ -1,14 +1,15 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/MariaRolik" target="_blank">Maria</a> 
+<h1 align="center">Привет, я <a href="https://github.com/MariaRolik" target="_blank">Мария</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA Engineer from Saint Petersburg</h3>
+<h3 align="center">QA fullstack</h3>
 
- :star: &nbsp; I graduated from South Ural State University with a degree in software engineering.\
- :star: &nbsp; I do manual testing and look for bugs. \
- :star: &nbsp; I do automated testing of test cases. \
- :hourglass: &nbsp;&nbsp; I'm taking a course on test automation in Java on the QA-GURU. 
+ :star: &nbsp; Закончила ЮУрГУ по специальности "Программная инженерия".\
+ :star: &nbsp; Работаю в тестировании 9 лет. \
+ :star: &nbsp; Успешно завершила курс и написала диплом на Java на QA-GURU. \
+ :star: &nbsp; Продолжаю развиваться в автоматизации тестирования. \
+ :star: &nbsp; Мои контакты: <a href="https://t.me/Maria_Rolik"> telegram</a>, <a href="https://career.habr.com/marytalean"> habr</a>.
 
 
- ## Tech Stack
+ ## Стек технологий и инструментов:
  <p align="left">
 <img width="6%" title="IntelliJ IDEA" src="assets/Idea.svg">
 <img width="6%" title="Java" src="assets/Java.svg">
@@ -27,10 +28,19 @@
 <img width="6%" title="TestIT" src="assets/testit.svg"> 
          
 
-## Project:
-### <a target="_blank" href="https://github.com/MariaRolik/REST-API"> API automation project for website Reqres.in
- 
+## Мои проекты:
 
+### API-тесты:
+- ### <a target="_blank" href="https://github.com/MariaRolik/REST-API"> Reqres.in
+
+### UI-тесты:
+- ### <a target="_blank" href="https://github.com/MariaRolik/Lesson4demoqa"> Demoqa.com
+
+### Allure-отчеты:
+- ### <a target="_blank" href="https://github.com/MariaRolik/AllureReport-12-lesson/tree/master/src/test/java/qaguru"> Github.com
+
+### Запуск тестов из Jenkins:
+- ### <a target="_blank" href="https://github.com/MariaRolik/HomeWork_Lesson13_Jenkins"> Demoqa.com
 
 
 ## :octocat: &nbsp;GitHub Analytics
@@ -43,6 +53,3 @@
   <a href="https://t.me/Maria_Rolik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-
-
