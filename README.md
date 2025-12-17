@@ -3,7 +3,7 @@
 <h3 align="center">QA fullstack</h3>
 
  :star: &nbsp; Закончила ЮУрГУ по специальности "Программная инженерия".\
- :star: &nbsp; Работаю в тестировании 9 лет. \
+ :star: &nbsp; Работаю в тестировании 10 лет. \
  :star: &nbsp; Успешно завершила курс и написала диплом на Java на QA-GURU. \
  :star: &nbsp; Продолжаю развиваться в автоматизации тестирования. \
  :star: &nbsp; Мои контакты: <a href="https://t.me/Maria_Rolik"> telegram</a>, <a href="https://career.habr.com/marytalean"> habr</a>.
